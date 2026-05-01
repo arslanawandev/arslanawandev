@@ -16,36 +16,6 @@
 
 <div align="center">
 
-<!-- Social badges — green/gold palette -->
-<a href="mailto:abdulislam@email.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://abdulislam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=firefox-browser&logoColor=0A1A0A" />
-</a>
-&nbsp;
-<a href="https://twitter.com/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://discord.com/users/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
----
 
 ## ⚡ About Me
 
@@ -57,10 +27,10 @@ $ whoami
 
 $ cat profile.yaml
 ---
-Name        : Abdul Islam
+Name        : Arslan Awan
 Role        : PHP Engineer & WordPress Architect
-Location    : 🇵🇰 Pakistan → 🌍 Working Worldwide
-Experience  : 4+ Years in PHP & WordPress
+Location    : USA → 🌍 Working Worldwide
+Experience  : 10+ Years in PHP & WordPress
 Passion     : Crafting Robust, Scalable Web Solutions
 Status      : Open to International Projects ✅
 ---
@@ -73,7 +43,7 @@ Status      : Open to International Projects ✅
 - 💡 Focused on: **WordPress architecture, WooCommerce & PHP backends**
 - 🤝 Looking to collaborate on: **WordPress & PHP-powered platforms**
 - 🎯 Goal: **Engineer clean, scalable solutions that stand the test of time**
-- 📬 Reach me at: **abdulislam@email.com**
+
 
 <br clear="right"/>
 
