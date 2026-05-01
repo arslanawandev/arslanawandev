@@ -28,8 +28,8 @@ $ cat profile.yaml
 ---
 Name        : Arslan Awan
 Role        : PHP Engineer & WordPress Architect
-Location    : 🇵🇰 Pakistan → 🌍 Working Worldwide
-Experience  : 4+ Years in PHP & WordPress
+Location    : USA → 🌍 Working Worldwide
+Experience  : 8+ Years in PHP & WordPress
 Passion     : Crafting Robust, Scalable Web Solutions
 Status      : Open to International Projects ✅
 ---
