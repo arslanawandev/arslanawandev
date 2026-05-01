@@ -1,21 +1,20 @@
 <div align="center">
 
 <!-- Animated Banner — Matrix green + gold scheme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A1A0A,40:00FF88,100:FFD700&height=200&section=header&text=Abdul%20Islam&fontSize=80&fontColor=0A1A0A&animation=blinking&fontAlignY=55&desc=PHP%20Engineer%20%7C%20WordPress%20Architect%20%7C%20Web%20Craftsman&descAlignY=75&descAlign=50&descSize=16&descColor=0A1A0A" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A1A0A,40:00FF88,100:FFD700&height=200&section=header&text=Arslan%20Awan&fontSize=80&fontColor=0A1A0A&animation=blinking&fontAlignY=55&desc=PHP%20Engineer%20%7C%20WordPress%20Architect%20%7C%20Web%20Craftsman&descAlignY=75&descAlign=50&descSize=16&descColor=0A1A0A" />
 
 </div>
 
 <div align="center">
 
 <!-- Typing SVG — green terminal theme -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=26&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+World!+I'm+Abdul+Islam+⚡;PHP+Engineer+%7C+WordPress+Architect;Crafting+the+Web%2C+One+Line+at+a+Time+🛠️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=26&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+World!+I'm+Arslan+Awan+⚡;PHP+Engineer+%7C+WordPress+Architect;Crafting+the+Web%2C+One+Line+at+a+Time+🛠️)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<div align="center">
-
+---
 
 ## ⚡ About Me
 
@@ -23,14 +22,14 @@
 
 ```bash
 $ whoami
-> Abdul Islam
+> Arslan Awan
 
 $ cat profile.yaml
 ---
 Name        : Arslan Awan
 Role        : PHP Engineer & WordPress Architect
-Location    : USA → 🌍 Working Worldwide
-Experience  : 10+ Years in PHP & WordPress
+Location    : 🇵🇰 Pakistan → 🌍 Working Worldwide
+Experience  : 4+ Years in PHP & WordPress
 Passion     : Crafting Robust, Scalable Web Solutions
 Status      : Open to International Projects ✅
 ---
@@ -43,7 +42,6 @@ Status      : Open to International Projects ✅
 - 💡 Focused on: **WordPress architecture, WooCommerce & PHP backends**
 - 🤝 Looking to collaborate on: **WordPress & PHP-powered platforms**
 - 🎯 Goal: **Engineer clean, scalable solutions that stand the test of time**
-
 
 <br clear="right"/>
 
@@ -108,12 +106,12 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulislam&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&title_color=00FF88&icon_color=FFD700&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulislam&theme=chartreuse-dark&hide_border=true&background=0D1F0D&stroke=00FF88&ring=FFD700&fire=FF6B6B&currStreakLabel=00FF88" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arslanawan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&title_color=00FF88&icon_color=FFD700&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanawan&theme=chartreuse-dark&hide_border=true&background=0D1F0D&stroke=00FF88&ring=FFD700&fire=FF6B6B&currStreakLabel=00FF88" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulislam&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&title_color=00FF88&text_color=ffffff" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanawan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&title_color=00FF88&text_color=ffffff" />
 
 </div>
 
@@ -123,7 +121,7 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdulislam&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=arslanawan&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
@@ -133,7 +131,7 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulislam&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&color=00FF88&line=FFD700&point=FF6B6B" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arslanawan&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&color=00FF88&line=FFD700&point=FF6B6B" />
 
 </div>
 
@@ -170,7 +168,7 @@ Status      : Open to International Projects ✅
 
 ---
 
-## 🌍 Global Collaboration
+## 🌍 Availability
 
 <div align="center">
 
@@ -236,29 +234,9 @@ Status      : Open to International Projects ✅
 
 ---
 
-## 📬 Let's Build Something Solid
-
 <div align="center">
 
-### Got a WordPress or PHP project? Let's turn it into something exceptional.
-
-<br/>
-
-<a href="mailto:abdulislam@email.com">
-  <img src="https://img.shields.io/badge/📧 Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://calendly.com/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/📅 Book a Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/💼 Hire on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdulislam&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=arslanawan&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
